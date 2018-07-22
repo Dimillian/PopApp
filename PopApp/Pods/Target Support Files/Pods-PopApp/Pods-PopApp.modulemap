@@ -1,6 +1,0 @@
-module Pods_PopApp {
-  umbrella header "Pods-PopApp-umbrella.h"
-
-  export *
-  module * { export * }
-}
